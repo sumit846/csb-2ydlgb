@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://sumit846.github.io/csb-2ydlgb/static/css/main.16b72f99.css",
+    "main.js": "https://sumit846.github.io/csb-2ydlgb/static/js/main.c7c445d8.js",
+    "index.html": "https://sumit846.github.io/csb-2ydlgb/index.html",
+    "main.16b72f99.css.map": "https://sumit846.github.io/csb-2ydlgb/static/css/main.16b72f99.css.map",
+    "main.c7c445d8.js.map": "https://sumit846.github.io/csb-2ydlgb/static/js/main.c7c445d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b72f99.css",
+    "static/js/main.c7c445d8.js"
+  ]
+}
